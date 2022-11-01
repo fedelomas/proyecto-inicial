@@ -4,7 +4,8 @@
   "description": "API REST para app desarrollada con REACTJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
   },
   "author": "FEDERICO BAIOCCO",
   "license": "MIT",
